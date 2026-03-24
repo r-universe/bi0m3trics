@@ -5,3 +5,6 @@
 [submodule "spanner"]
 	path = spanner
 	url = https://github.com/bi0m3trics/spanner
+[submodule "vostokR"]
+	path = vostokR
+	url = https://github.com/bi0m3trics/vostokr
